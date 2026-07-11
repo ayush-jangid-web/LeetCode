@@ -10,11 +10,14 @@
  * };
  */
 class Solution {
-    TreeNode* mapAndFindTarget(int start,TreeNode* root,unordered_map<TreeNode*,TreeNode*>&childToParent){
+
+    TreeNode* mapandfind(unordered_map<TreeNode*,TreeNode*> &childtoparent,TreeNode* root, int start){
         TreeNode* target = NULL;
+
         queue<TreeNode*>q;
         q.push(root);
-        childToParent[root] = NULL;
+
+        childtoparent[root] = NULL;
 
         while(!q.empty()){
             TreeNode* front = q.front();
@@ -23,50 +26,54 @@ class Solution {
             if(front->val == start){
                 target = front;
             }
+
             if(front->left){
-                childToParent[front->left] = front;
+                childtoparent[front->left] = front;
                 q.push(front->left);
             }
+
             if(front->right){
-                childToParent[front->right] = front;
+                childtoparent[front->right] = front;
                 q.push(front->right);
-            }           
+            }
         }
         return target;
-    };
+    }
 
-    int burn(TreeNode* root,unordered_map<TreeNode*,TreeNode*>&childToParent){
+    int burn(TreeNode* root,unordered_map<TreeNode*,TreeNode*> &childtoparent){
         int ans = 0;
-        unordered_map<TreeNode*,bool>isVisited;
-        isVisited[root] = true;
+
+        unordered_map<TreeNode*,bool>visit;
+        visit[root] = true;
 
         queue<TreeNode*>q;
         q.push(root);
 
         while(!q.empty()){
-            
+
             bool flag = false;
             int size = q.size();
+            
             for(int i=0;i<size;i++){
                 TreeNode* front = q.front();
                 q.pop();
 
-                if(front->left && !isVisited[front->left]){
-                    flag = true;
+                if(front->left && !visit[front->left]){
+                    visit[front->left] = true;
                     q.push(front->left);
-                    isVisited[front->left] = true;
+                    flag = true;
                 }
 
-                if(front->right && !isVisited[front->right]){
-                    flag = true;
+                if(front->right && !visit[front->right]){
+                    visit[front->right] = true;
                     q.push(front->right);
-                    isVisited[front->right] = true;
+                    flag = true;
                 }
 
-                if(childToParent[front] && !isVisited[childToParent[front]]){
+                if(childtoparent[front] && !visit[childtoparent[front]]){
+                    visit[childtoparent[front]] = true;
+                    q.push(childtoparent[front]);
                     flag = true;
-                    q.push(childToParent[front]);
-                    isVisited[childToParent[front]] = true;
                 }
             }
             if(flag == true){
@@ -75,15 +82,13 @@ class Solution {
         }
         return ans;
     }
+
 public:
     int amountOfTime(TreeNode* root, int start) {
-        //algo:
-        //1. map the childWithParent
-        //2 find target node
-        //3. burn the aadjacent node and count time
+        unordered_map<TreeNode*,TreeNode*> childtoparent;
 
-        unordered_map<TreeNode*,TreeNode*> childToParent;
-        TreeNode* target = mapAndFindTarget(start,root,childToParent);
-        return burn(target,childToParent);
+        TreeNode* target = mapandfind(childtoparent,root,start);
+
+        return burn(target,childtoparent);
     }
 };
