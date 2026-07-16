@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-jangid-web/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-jangid-web/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-jangid-web/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-jangid-web/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
