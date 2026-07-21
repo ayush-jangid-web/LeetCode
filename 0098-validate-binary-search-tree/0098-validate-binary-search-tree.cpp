@@ -10,29 +10,21 @@
  * };
  */
 class Solution {
-    vector<int>ans;
-    void solve(TreeNode* root){
-        if(root==NULL){
-            return;
+    bool solve(TreeNode* root,long long mini,long long maxi){
+        if(root == NULL){
+            return true;
         }
-        
-        solve(root->left);
-        ans.push_back(root->val);
-        solve(root->right);
+        if(root->val > mini && root->val < maxi){
+            bool left = solve(root->left,mini,root->val);
+            bool right = solve(root->right,root->val,maxi);
+            return left && right;
+        }
+        else{
+            return false;
+        }
     }
 public:
     bool isValidBST(TreeNode* root) {
-        solve(root);
-        long long pre = LLONG_MIN;
-        for(auto &it:ans){
-            if(pre < it){
-                pre = it;
-            }
-            else{
-                return false;
-            }
-        }
-        return true;
-
+        return solve(root,LLONG_MIN,LLONG_MAX);
     }
 };
