@@ -10,27 +10,23 @@
  * };
  */
 class Solution {
-    vector<int>ans;
-    void solve(TreeNode* root){
-        if(root == NULL){
+    int ans;
+    void solve(TreeNode* root,int &k){
+        if(root == NULL || k == 0){
             return;
         }
         
-        solve(root->left);
-        ans.push_back(root->val);
-        solve(root->right);
+        solve(root->left,k);
+        k--;
+        if(k == 0){
+            ans = root->val;
+            return;
+        }
+        solve(root->right,k);
     }
 public:
     int kthSmallest(TreeNode* root, int k) {
-        solve(root);
-        int n = ans.size();
-        if(n>=k){
-            int result=0;
-            for(int i=0;i<k;i++){
-                result = ans[i];
-            }
-            return result;
-        }
-        return -1;
+        solve(root,k);
+        return ans;        
     }
 };
