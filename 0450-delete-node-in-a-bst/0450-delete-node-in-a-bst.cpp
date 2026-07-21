@@ -10,10 +10,10 @@
  * };
  */
 class Solution {
-    int findmini(TreeNode* root){
+    int findmin(TreeNode* root){
         TreeNode* temp = root;
-        while(temp->left != NULL){
-            temp = temp->left;
+        while(temp->left!=NULL){
+            temp=temp->left;
         }
         return temp->val;
     }
@@ -29,30 +29,31 @@ public:
                 delete root;
                 return NULL;
             }
-            // 1 child
-                //  left child
-                if(root->left != NULL && root->right == NULL){
+
+            // 1 child 
+                // left child
+                if(root->left!=NULL && root->right == NULL){
                     TreeNode* temp = root->left;
                     delete root;
                     return temp;
                 }
-                // right child
-                if(root->left == NULL  && root->right != NULL){
+
+                //right child
+                if(root->left == NULL && root->right != NULL){
                     TreeNode* temp = root->right;
                     delete root;
                     return temp;
                 }
             
-            // 2 child
+            // 2 childs
             if(root->left != NULL && root->right != NULL){
-                // finding min from right sub tree;
-                int mini = findmini(root->right);
+                int mini = findmin(root->right);
                 root->val = mini;
-
                 root->right = deleteNode(root->right,mini);
                 return root;
             }
         }
+
         else if(root->val > key){
             root->left = deleteNode(root->left,key);
             return root;
@@ -61,7 +62,6 @@ public:
             root->right = deleteNode(root->right,key);
             return root;
         }
-
         return root;
     }
 };
