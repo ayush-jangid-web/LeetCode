@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayush-jangid-web/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-jangid-web/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-jangid-web/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Enumeration
 |  |
@@ -220,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
