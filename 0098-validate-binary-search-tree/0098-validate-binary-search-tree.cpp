@@ -14,14 +14,15 @@ class Solution {
         if(root == NULL){
             return true;
         }
-        if(root->val > mini && root->val < maxi){
-            bool left = solve(root->left,mini,root->val);
-            bool right = solve(root->right,root->val,maxi);
-            return left && right;
-        }
-        else{
+
+        if(root->val <= mini || root->val >= maxi){
             return false;
         }
+
+        bool left = solve(root->left,mini,root->val);
+        bool right = solve(root->right,root->val,maxi);
+
+        return left && right;
     }
 public:
     bool isValidBST(TreeNode* root) {
