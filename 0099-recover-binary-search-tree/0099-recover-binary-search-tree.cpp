@@ -6,35 +6,43 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
-    vector<int>ans;
-    void solve(TreeNode* root){
-        if(root == NULL){
+    TreeNode* prev = NULL;
+    TreeNode* first = NULL;
+    TreeNode* second = NULL;
+
+    void solve(TreeNode* root) {
+        if (root == NULL) {
             return;
         }
-
         solve(root->left);
-        ans.push_back(root->val);
+
+        if (prev != NULL) {
+            if (prev->val > root->val) {
+                if (first == NULL) {
+                    first = prev;
+                    second = root;
+                } else {
+                    second = root;
+                }
+            }
+        }
+        prev = root;
         solve(root->right);
     }
-    int k=0;
-    void bst(TreeNode* root,vector<int>&ans){
-        if(root == NULL){
-            return;
-        }
 
-        bst(root->left,ans);
-        root->val = ans[k++];
-        bst(root->right,ans);
-    }
 public:
     void recoverTree(TreeNode* root) {
         solve(root);
-        sort(ans.begin(),ans.end());
-        bst(root,ans);
+
+        if (first && second) {
+            swap(first->val, second->val);
+        }
+
         return;
     }
 };
