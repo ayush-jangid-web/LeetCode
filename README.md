@@ -199,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayush-jangid-web/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ayush-jangid-web/LeetCode/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayush-jangid-web/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayush-jangid-web/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
