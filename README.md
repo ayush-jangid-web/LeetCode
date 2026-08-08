@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/ayush-jangid-web/LeetCode/tree/master/1046-last-stone-weight) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayush-jangid-web/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -302,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayush-jangid-web/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/ayush-jangid-web/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
