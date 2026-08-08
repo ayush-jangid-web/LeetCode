@@ -1,7 +1,7 @@
 class Solution {
 public:
     string majorityFrequencyGroup(string s) {
-        map<char,int>mp;
+        unordered_map<char,int>mp;
         int n = s.length();
         
         map<int,string>temp;
