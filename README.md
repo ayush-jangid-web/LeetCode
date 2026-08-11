@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayush-jangid-web/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayush-jangid-web/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayush-jangid-web/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayush-jangid-web/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayush-jangid-web/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search Tree
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayush-jangid-web/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayush-jangid-web/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
