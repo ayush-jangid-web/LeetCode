@@ -2,16 +2,16 @@ class TrieNode{
     public:
     char data;
     TrieNode* children[26];
-    bool isTerminal;
+    bool isterminal;
     int childcount;
 
     TrieNode(char val){
         data = val;
         for(int i=0;i<26;i++){
             children[i] = NULL;
-        }
-            isTerminal = false;
+            isterminal = false;
             childcount = 0;
+        }
     }
 };
 
@@ -21,50 +21,56 @@ class Trie{
     Trie(){
         root = new TrieNode('\0');
     }
-};
 
-class Solution {
-    void CreateTrie(TrieNode* root,string word){
+    void insertutil(TrieNode* root,string word){
         if(word.length() == 0){
-            root->isTerminal = true;
+            root->isterminal = true;
             return;
         }
 
         int idx = word[0]-'a';
         TrieNode* child;
-
         if(root->children[idx] != NULL){
             child = root->children[idx];
         }
         else{
             child = new TrieNode(word[0]);
-            root->children[idx] = child;
             root->childcount++;
+            root->children[idx] = child;
         }
 
-        CreateTrie(child,word.substr(1));
+        insertutil(child,word.substr(1));
     }
-    
-    void lcp(string word,string &ans,TrieNode*){
-        
+
+    void insert(string word){
+        insertutil(root,word);
     }
+};
+
+
+
+
+class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         int n = strs.size();
+        string ans = "";
         Trie* t1 = new Trie();
 
         for(int i=0;i<n;i++){
-            CreateTrie(t1->root,strs[i]);
+            t1->insert(strs[i]);
         }
 
-        string ans="";
         string first = strs[0];
+
         TrieNode* curr = t1->root;
+        
         for(int i=0;i<strs[0].length();i++){
             char ch = strs[0][i];
-
-            if(curr->childcount == 1 && curr->isTerminal == false){
+            
+            if(curr->childcount == 1 && curr->isterminal == false){
                 ans.push_back(ch);
+
                 int idx = ch-'a';
                 curr = curr->children[idx];
             }
@@ -72,6 +78,7 @@ public:
                 break;
             }
         }
+
         return ans;
     }
 };
