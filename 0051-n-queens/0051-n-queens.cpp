@@ -1,13 +1,18 @@
 class Solution {
-    void saveans(vector<vector<string>>& ans, vector<vector<int>>&board,int n){
-        vector<string>temp;
-        for(int i=0;i<n;i++){
-            string s="";
-            for(int j=0;j<n;j++){
-                if(board[i][j] == 0){
-                    s+=".";
-                }else{
-                    s+="Q";
+    unordered_map<int, bool> leftRow;
+    unordered_map<int, bool> upperDia;
+    unordered_map<int, bool> lowerDia;
+
+    void saveans(vector<vector<string>>& ans, vector<vector<int>>& board,
+                 int n) {
+        vector<string> temp;
+        for (int i = 0; i < n; i++) {
+            string s = "";
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] == 0) {
+                    s += ".";
+                } else {
+                    s += "Q";
                 }
             }
             temp.push_back(s);
@@ -15,63 +20,55 @@ class Solution {
         ans.push_back(temp);
     }
 
-    bool isSafe(int row,int col,vector<vector<int>>&board,int n){
+    bool isSafe(int row, int col, int n) {
         // row
-        int x = row;
-        int y = col;
-        while(y>=0){
-            if(board[x][y]){
-                return false;
-            }
-            y--;
+        if (leftRow[row] == true) {
+            return false;
         }
 
         // diagonal up
-        x = row;
-        y = col;
-        while(x>=0 && y>=0){
-            if(board[x][y] == 1){
-                return false;
-            }
-            x--;
-            y--;
+        if (upperDia[n - 1 + col - row] == true) {
+            return false;
         }
 
         // diagonal down
-        x = row;
-        y = col;
-        while(x<n && y>=0){
-            if(board[x][y] == 1){
-                return false;
-            }
-            x++;
-            y--;
+        if (lowerDia[row + col] == true) {
+            return false;
         }
 
         return true;
     }
 
-    void solve(int col,vector<vector<string>>& ans, vector<vector<int>>&board,int n){
-        if(col == n){
-            saveans(ans,board,n);
+    void solve(int col, vector<vector<string>>& ans, vector<vector<int>>& board,
+               int n) {
+        if (col == n) {
+            saveans(ans, board, n);
             return;
         }
 
-        for(int row=0;row<n;row++){
-            if(isSafe(row,col,board,n)){
+        for (int row = 0; row < n; row++) {
+            if (isSafe(row, col, n)) {
+                leftRow[row] = true;
+                upperDia[n - 1 + col - row] = true;
+                lowerDia[row + col] = true;
                 board[row][col] = 1;
-                solve(col+1,ans,board,n);
+
+                solve(col + 1, ans, board, n);
+
                 board[row][col] = 0;
+                leftRow[row] = false;
+                upperDia[n - 1 + col - row] = false;
+                lowerDia[row + col] = false;
             }
         }
-
     };
+
 public:
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>>ans;
-        vector<vector<int>>board(n,vector<int>(n,0));
+        vector<vector<string>> ans;
+        vector<vector<int>> board(n, vector<int>(n, 0));
 
-        solve(0,ans,board,n);
+        solve(0, ans, board, n);
         return ans;
     }
 };
