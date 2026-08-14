@@ -18,6 +18,8 @@ public:
                 if(check(mp)){
                     int l = j-i+1;
                     ans= max(ans,l);
+                }else{
+                    break;
                 }
             }
         }
