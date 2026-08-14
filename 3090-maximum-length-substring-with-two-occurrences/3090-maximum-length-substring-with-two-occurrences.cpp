@@ -1,27 +1,20 @@
 class Solution {
-    bool check(unordered_map<char,int>& mp){
-        for(auto &it:mp){
-            if(it.second > 2){
-                return false;
-            }
-        }
-        return true;
-    }
 public:
     int maximumLengthSubstring(string s) {
-        int n = s.length();
+        unordered_map<char,int>mp;
+        int n=s.length();
+        int left=0;
+        int right=0;
         int ans=0;
-        for(int i=0;i<n;i++){
-            unordered_map<char,int>mp;
-            for(int j=i;j<n;j++){
-                mp[s[j]]++;
-                if(check(mp)){
-                    int l = j-i+1;
-                    ans= max(ans,l);
-                }else{
-                    break;
-                }
+        while(right < n ){
+            char ch = s[right];
+            mp[ch]++;
+            while(mp[ch]>2){
+                mp[s[left]]--;
+                left++;
             }
+            ans = max(ans,right-left+1);
+            right++;
         }
         return ans;
     }
