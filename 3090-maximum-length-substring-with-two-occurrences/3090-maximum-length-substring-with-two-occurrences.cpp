@@ -1,5 +1,5 @@
 class Solution {
-    bool check(string temp,unordered_map<char,int>& mp){
+    bool check(unordered_map<char,int>& mp){
         for(auto &it:mp){
             if(it.second > 2){
                 return false;
@@ -12,13 +12,11 @@ public:
         int n = s.length();
         int ans=0;
         for(int i=0;i<n;i++){
-            string temp="";
             unordered_map<char,int>mp;
             for(int j=i;j<n;j++){
-                temp+=s[j];
                 mp[s[j]]++;
-                if(check(temp,mp)){
-                    int l = temp.length();
+                if(check(mp)){
+                    int l = j-i+1;
                     ans= max(ans,l);
                 }
             }
