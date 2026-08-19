@@ -15,15 +15,13 @@ public:
                 }
             }
             return ans;
-        }
-        else if (k == n) {
+        } else if (k == n) {
 
             for (auto& i : mp) {
                 ans = max(ans, i.first);
             }
             return ans;
-        }
-        else {
+        } else {
             if (mp[nums[0]] == 1) {
                 ans = max(ans, nums[0]);
             }
