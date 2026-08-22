@@ -10,25 +10,24 @@
  * };
  */
 class Solution {
-    int nums = 0;
+    int ans = 0;
     void solve(TreeNode* root,int temp){
         if(root == NULL){
             return;
         }
-        if(root->left == NULL && root->right == NULL){
-            temp = (temp*10) + root->val;
-            nums+= temp;
+        if(root -> left == NULL && root -> right == NULL){
+            ans += (temp*10)+root->val;
             return;
         }
 
-        temp = (temp*10) + root->val;
+        temp = (temp * 10) + root->val;
         solve(root->left,temp);
         solve(root->right,temp);
     }
 public:
     int sumNumbers(TreeNode* root) {
-        int i = 0;
-        solve(root,i);
-        return nums;
+        solve(root,0);
+
+        return ans;
     }
 };
