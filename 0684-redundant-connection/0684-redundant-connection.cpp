@@ -1,17 +1,23 @@
 class Solution {
     bool solve(int node, int target, unordered_map<int, list<int>>& adj,
                vector<bool>& visited) {
-        if(node == target){
-            return true;
-        }
 
         visited[node] = true;
+        queue<int>q;
+        q.push(node);
 
-        for(auto i: adj[node]){
-            if(!visited[i]){
-                bool is = solve(i,target,adj,visited);
-                if(is){
-                    return true;
+        while(!q.empty()){
+            int front = q.front();
+            q.pop();
+
+            if (front == target) {
+                return true;
+            }
+
+            for(auto i: adj[front]){
+                if(!visited[i]){
+                    visited[i] = true;
+                    q.push(i);
                 }
             }
         }
