@@ -15,18 +15,18 @@ class Solution {
         if(root == NULL){
             return;
         }
-
         queue<TreeNode*>q;
         q.push(root);
-        q.push(NULL);
-        vector<int>temp;
 
         while(!q.empty()){
-            TreeNode* front = q.front();
-            q.pop();
+            int size = q.size();
+            vector<int>temp(size);
 
-            if(front != NULL){
-                temp.push_back(front->val);
+            for(int i=0;i<size;i++){
+                TreeNode* front = q.front();
+                q.pop();
+
+                temp[i] = front->val;
 
                 if(front->left){
                     q.push(front->left);
@@ -35,15 +35,7 @@ class Solution {
                     q.push(front->right);
                 }
             }
-            else{
-                ans.push_back(temp);
-                temp.clear();
-
-                if(!q.empty()){
-                    q.push(NULL);
-                }
-                
-            }
+            ans.push_back(temp);
         }
     }
 public:
