@@ -1,32 +1,11 @@
 class Solution {
     bool solve(string& ans, string& temp) {
-        int n = ans.length();
-        if (n == 0) {
-            return true;
-        }
-        int m = temp.length();
+        if(ans.length() == 0){return true;}
 
-        if (n == m) {
-            int i = 0;
-            while (i < n) {
-                char a = ans[i];
-                char t = temp[i];
-                if (a == '1' && t == '0') {
-                    return true;
-                }
-                if (a == '0' && t == '1') {
-                    return false;
-                }
-                i++;
-            }
-            return true;
-        }
-        if (n < m) {
-            return false;
-        }
-        if (n > m) {
-            return true;
-        }
+        if(ans.length() < temp.length()){return false;}
+        if(ans.length() > temp.length()){return true;}
+
+        if(temp < ans){return true;}
         return false;
     }
 
