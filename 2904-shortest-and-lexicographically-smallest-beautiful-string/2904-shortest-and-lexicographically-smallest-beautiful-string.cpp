@@ -27,6 +27,7 @@ public:
                     if (solve(ans, temp)) {
                         ans = temp;
                     }
+                    break;
                 }
             }
         }
