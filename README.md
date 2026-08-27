@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush-jangid-web/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/ayush-jangid-web/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ayush-jangid-web/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-jangid-web/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ayush-jangid-web/LeetCode/tree/master/0051-n-queens) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ayush-jangid-web/LeetCode/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-jangid-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
