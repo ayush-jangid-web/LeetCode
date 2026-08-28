@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-jangid-web/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3692-majority-frequency-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/3692-majority-frequency-characters) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayush-jangid-web/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/ayush-jangid-web/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayush-jangid-web/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayush-jangid-web/LeetCode/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-jangid-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayush-jangid-web/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
