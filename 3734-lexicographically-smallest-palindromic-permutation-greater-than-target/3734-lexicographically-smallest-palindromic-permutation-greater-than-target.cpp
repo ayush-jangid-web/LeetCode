@@ -106,6 +106,7 @@ public:
                     break;
                 }
 
+                //not found
                 ans = backtrack(i, halftarget, ans);
 
                 if (ans == "") {
@@ -132,6 +133,7 @@ public:
             return result;
         }
 
+        // equal or less
         // rebuild
 
         halftarget.clear();
