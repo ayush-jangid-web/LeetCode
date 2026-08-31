@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-evaluate-boolean-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-jangid-web/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/ayush-jangid-web/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/ayush-jangid-web/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-jangid-web/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/ayush-jangid-web/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
 | ------- |
@@ -484,10 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/ayush-jangid-web/LeetCode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayush-jangid-web/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/ayush-jangid-web/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ayush-jangid-web/LeetCode/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/ayush-jangid-web/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayush-jangid-web/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/ayush-jangid-web/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
