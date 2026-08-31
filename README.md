@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayush-jangid-web/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayush-jangid-web/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayush-jangid-web/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search Tree
