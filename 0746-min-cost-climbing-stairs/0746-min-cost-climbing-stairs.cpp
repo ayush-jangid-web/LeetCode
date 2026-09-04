@@ -1,6 +1,6 @@
 class Solution {
     int solve(vector<int>&cost,int n){
-        vector<int>dp(n+1,-1);
+        vector<int>dp(n,-1);
         dp[0] = cost[0];
         dp[1] = cost[1];
 
