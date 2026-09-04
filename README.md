@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 | [0506-relative-ranks](https://github.com/ayush-jangid-web/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/ayush-jangid-web/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/ayush-jangid-web/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -517,4 +520,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ayush-jangid-web/LeetCode/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
