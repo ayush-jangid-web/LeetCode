@@ -4,16 +4,17 @@ class Solution {
             return 0;
         }
         if(n == 0){
-            return nums[0];
+            return nums[n];
         }
+
         if(dp[n]!= -1){
             return dp[n];
         }
 
-        int h1 = solve(nums,n-2,dp) + nums[n];
-        int h2 = solve(nums,n-1,dp) + 0;
+        int include = solve(nums,n-2,dp) + nums[n]; 
+        int exclude = solve(nums,n-1,dp) + 0;
 
-        dp[n] = max(h1,h2);
+        dp[n] = max(include,exclude);
         return dp[n];
     }
 public:
