@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ayush-jangid-web/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/ayush-jangid-web/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/ayush-jangid-web/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ayush-jangid-web/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/ayush-jangid-web/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
