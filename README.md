@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0849-maximize-distance-to-closest-person](https://github.com/ayush-jangid-web/LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
+| [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/ayush-jangid-web/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayush-jangid-web/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
