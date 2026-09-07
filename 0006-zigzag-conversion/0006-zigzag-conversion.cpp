@@ -2,6 +2,9 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         int n = s.length();
+        if(n == 1){
+            return s;
+        }
         vector<string>temp(numRows);
 
         int k = 0;
