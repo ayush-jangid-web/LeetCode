@@ -8,12 +8,12 @@ public:
         int i = 0;
         while(i < n){
             while(i<n && k < numRows){
-                temp[k%numRows] += s[i++];
+                temp[k] += s[i++];
                 k++;
             }
             k = numRows-2;
             while(i<n && k > 0){
-                temp[k % numRows] += s[i++];
+                temp[k] += s[i++];
                 k--;
             }
             k=0;
