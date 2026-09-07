@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayush-jangid-web/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ayush-jangid-web/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-jangid-web/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ayush-jangid-web/LeetCode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/ayush-jangid-web/LeetCode/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayush-jangid-web/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/ayush-jangid-web/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-jangid-web/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ayush-jangid-web/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
