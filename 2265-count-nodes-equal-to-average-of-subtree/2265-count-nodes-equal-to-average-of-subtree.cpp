@@ -10,27 +10,27 @@
  * };
  */
 class Solution {
-    int ans=0;
+    int ans = 0;
     pair<int,int> solve(TreeNode* root){
         if(root == NULL){
             return {0,0};
         }
 
-        pair<int,int>left = solve(root->left);
-        pair<int,int>right = solve(root->right);
+        pair<int,int> left = solve(root->left);
+        pair<int,int> right = solve(root->right);
 
-        int sum = left.first + right.first + root->val;\
-        int count = left.second + right.second + 1;
+        int sum = left.first + right.first + root->val;
+        int n = left.second + right.second + 1;
 
-        if(sum/count == root->val){
+        if( sum/n == root->val){
             ans++;
-        }
+        } 
 
-        pair<int,int>result = {sum,count};
-        return result;
+        return {sum,n};
     }
 public:
     int averageOfSubtree(TreeNode* root) {
+        ans = 0;
         solve(root);
         return ans;
     }
