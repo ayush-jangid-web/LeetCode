@@ -1,37 +1,34 @@
 class Solution {
-public:
-    int totalNumbers(vector<int>& digits) {
-        int n = digits.size();
-        unordered_map<int, int> mp;
-        for (int i = 0; i < n; i++) {
-            mp[digits[i]]++;
+    int ans = 0;
+    void solve(vector<int>& freq, int i, int num) {
+        if (i == 3) {
+            if (num % 2 == 0) {
+                ans++;
+            }
+            return;
         }
 
-        int ans = 0;
-        for (int i = 100; i <= 999; i++) {
-            int a = i % 10;
-            int b = (i / 10) % 10;
-            int c = i / 100;
-
-            if(i%2 !=0){
+        for (int j = 0; j < 10; j++) {
+            if (i == 0 && j == 0) {
                 continue;
             }
 
-            unordered_map<int,int>need;
-            need[a]++;
-            need[b]++;
-            need[c]++;
-
-            bool isans = true;
-            for(auto &it:need){
-                if(mp[it.first] < it.second){
-                    isans = false;
-                }
-            }
-            if(isans == true){
-                ans++;
+            if (freq[j] > 0) {
+                freq[j]--;
+                solve(freq, i + 1, (num * 10) + j);
+                freq[j]++;
             }
         }
+    }
+
+public:
+    int totalNumbers(vector<int>& digits) {
+        ans = 0;
+        vector<int> freq(10, 0);
+        for (int i = 0; i < digits.size(); i++) {
+            freq[digits[i]]++;
+        }
+        solve(freq, 0, 0);
         return ans;
     }
 };
