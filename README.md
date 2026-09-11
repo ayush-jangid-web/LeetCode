@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ayush-jangid-web/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2595-number-of-even-and-odd-bits](https://github.com/ayush-jangid-web/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Union-Find
 |  |
 | ------- |
