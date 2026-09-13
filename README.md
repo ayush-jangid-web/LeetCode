@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-jangid-web/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3692-majority-frequency-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayush-jangid-web/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3813-vowel-consonant-score](https://github.com/ayush-jangid-web/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
+| [3813-vowel-consonant-score](https://github.com/ayush-jangid-web/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## Two Pointers
 |  |
 | ------- |
