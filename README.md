@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0811-subdomain-visit-count](https://github.com/ayush-jangid-web/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0835-image-overlap](https://github.com/ayush-jangid-web/LeetCode/tree/master/0835-image-overlap) |
 | [0849-maximize-distance-to-closest-person](https://github.com/ayush-jangid-web/LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayush-jangid-web/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-jangid-web/LeetCode/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/ayush-jangid-web/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
