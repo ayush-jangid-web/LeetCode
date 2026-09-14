@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayush-jangid-web/LeetCode/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/ayush-jangid-web/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ayush-jangid-web/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush-jangid-web/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayush-jangid-web/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -579,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ayush-jangid-web/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
