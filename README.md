@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0811-subdomain-visit-count](https://github.com/ayush-jangid-web/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/ayush-jangid-web/LeetCode/tree/master/0835-image-overlap) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ayush-jangid-web/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayush-jangid-web/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0897-increasing-order-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/ayush-jangid-web/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-jangid-web/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
