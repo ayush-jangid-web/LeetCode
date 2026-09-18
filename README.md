@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 | [0506-relative-ranks](https://github.com/ayush-jangid-web/LeetCode/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/ayush-jangid-web/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ayush-jangid-web/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/ayush-jangid-web/LeetCode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/ayush-jangid-web/LeetCode/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayush-jangid-web/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/ayush-jangid-web/LeetCode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/ayush-jangid-web/LeetCode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayush-jangid-web/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-jangid-web/LeetCode/tree/master/0037-sudoku-solver) |
+| [0542-01-matrix](https://github.com/ayush-jangid-web/LeetCode/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/ayush-jangid-web/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/1314-matrix-block-sum) |
