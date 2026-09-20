@@ -17,7 +17,6 @@ class Solution {
     }
 public:
     int combinationSum4(vector<int>& nums, int target) {
-        int n = nums.size();
         vector<int>dp(target+1,-1);
         return solve(target,nums,dp);
     }
