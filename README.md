@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-jangid-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayush-jangid-web/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayush-jangid-web/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ayush-jangid-web/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-jangid-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ayush-jangid-web/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2315-count-asterisks](https://github.com/ayush-jangid-web/LeetCode/tree/master/2315-count-asterisks) |
