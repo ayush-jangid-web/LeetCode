@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayush-jangid-web/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/ayush-jangid-web/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush-jangid-web/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayush-jangid-web/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Math
 |  |
 | ------- |
@@ -653,4 +655,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/0494-target-sum) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
