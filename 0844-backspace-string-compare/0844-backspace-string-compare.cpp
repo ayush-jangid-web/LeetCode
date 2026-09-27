@@ -8,24 +8,22 @@ public:
         stack<char> st2;
 
         for (int i = 0; i < n; i++) {
-            char ch = s[i];
-            if (ch == '#') {
+            if (s[i] == '#') {
                 if (!st1.empty()) {
                     st1.pop();
                 }
             } else {
-                st1.push(ch);
+                st1.push(s[i]);
             }
         }
 
         for (int i = 0; i < m; i++) {
-            char ch = t[i];
-            if (ch == '#') {
+            if (t[i] == '#') {
                 if (!st2.empty()) {
                     st2.pop();
                 }
             } else {
-                st2.push(ch);
+                st2.push(t[i]);
             }
         }
 
@@ -34,10 +32,8 @@ public:
         }
 
         while (!st1.empty() && !st2.empty()) {
-            char ch1 = st1.top();
-            char ch2 = st2.top();
 
-            if (ch1 != ch2) {
+            if (st1.top() != st2.top()) {
                 return false;
             }
 
