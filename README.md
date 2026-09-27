@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0844-backspace-string-compare](https://github.com/ayush-jangid-web/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0811-subdomain-visit-count](https://github.com/ayush-jangid-web/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/ayush-jangid-web/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ayush-jangid-web/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/ayush-jangid-web/LeetCode/tree/master/3813-vowel-consonant-score) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayush-jangid-web/LeetCode/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-jangid-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/ayush-jangid-web/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/ayush-jangid-web/LeetCode/tree/master/0881-boats-to-save-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayush-jangid-web/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayush-jangid-web/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
