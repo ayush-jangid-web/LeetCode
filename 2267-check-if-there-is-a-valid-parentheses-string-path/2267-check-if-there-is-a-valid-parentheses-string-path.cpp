@@ -3,7 +3,7 @@ class Solution {
     vector<vector<vector<int>>>&dp){
         int n = grid.size();
         int m = grid[0].size();
-        
+
         if(grid[i][j] == '('){
             bal++;
         }
@@ -11,11 +11,8 @@ class Solution {
             bal--;
         }
 
-        if(i == n-1 && j == m-1){
-            if(bal == 0){
-                return true;
-            }
-            return false;
+        if( i == n-1 && j == m-1){
+            return bal == 0;
         }
         if(bal < 0){
             return false;
@@ -24,16 +21,18 @@ class Solution {
             return dp[i][j][bal];
         }
 
-        bool right = false;
-        if(j+1 < m){
-            right = solve(i,j+1,bal,grid,dp);
-        }
-        
+        //down
         bool down = false;
         if(i+1 < n){
             down = solve(i+1,j,bal,grid,dp);
         }
-        
+
+        //right
+        bool right = false;
+        if(j+1 < m){
+            right = solve(i,j+1,bal,grid,dp);
+        }
+
         return dp[i][j][bal] = right || down;
     }
 public:
