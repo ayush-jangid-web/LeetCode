@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-jangid-web/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0682-baseball-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ayush-jangid-web/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ayush-jangid-web/LeetCode/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/ayush-jangid-web/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ayush-jangid-web/LeetCode/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
