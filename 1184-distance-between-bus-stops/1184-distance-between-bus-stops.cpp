@@ -2,27 +2,20 @@ class Solution {
 public:
     int distanceBetweenBusStops(vector<int>& distance, int start, int destination) {
         int n = distance.size();
+        int totaldist = 0;
+        int count = 0;
+        if(start > destination){
+            swap(start,destination);
+        }
 
-        int a = 0;
-        int b = 0;
-        if(start <= destination){
-            for(int i=start;i<destination;i++){
-                a += distance[i];
-            }
+        for(int i=0;i<n;i++){
+            totaldist += distance[i];
 
-            for(int i=destination;i<(start+n);i++){
-                b += distance[i%n];
+            if(start <= i && i < destination){
+                count += distance[i];
             }
         }
-        else{
-            for(int i=start;i<(destination+n);i++){
-                a += distance[i%n];
-            }
 
-            for(int i=destination;i<start;i++){
-                b += distance[i];
-            }
-        }
-        return min(a,b);
+        return min(count,(totaldist-count));
     }
 };
