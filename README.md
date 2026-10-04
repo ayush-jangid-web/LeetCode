@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/ayush-jangid-web/LeetCode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/ayush-jangid-web/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ayush-jangid-web/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/ayush-jangid-web/LeetCode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/ayush-jangid-web/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -726,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-jangid-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
