@@ -1,5 +1,4 @@
 class Solution {
-    int ans = 0;
     int solve(int idx,int pre,vector<int>&nums,vector<vector<int>>&dp){
         if(idx == nums.size()){
             return 0;
