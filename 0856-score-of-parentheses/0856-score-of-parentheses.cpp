@@ -5,12 +5,11 @@ public:
         stack<int>st;
 
         for(int i=0;i<n;i++){
-            char ch = s[i];
-            if(ch == '('){
+            if(s[i] == '('){
                 st.push(0);
             }
             else{
-                // )
+                // ')'
                 if(st.top() == 0){
                     st.pop();
                     st.push(1);
@@ -22,7 +21,7 @@ public:
                         st.pop();
                     }
                     st.pop();
-                    st.push(sum * 2);
+                    st.push(sum*2);
                 }
             }
         }
