@@ -9,7 +9,7 @@ class Solution {
                 high = mid-1;
             }
             else{
-                low = mid+1;
+                low = mid + 1;
             }
         }
         return ans;
@@ -91,7 +91,7 @@ class Solution {
     }
 public:
     int lengthOfLIS(vector<int>& nums) {
-        // return solveDpBinary(nums);
+        return solveDpBinary(nums);
 
         // int n = nums.size();
         // vector<vector<int>>dp(n,vector<int>(n+1,-1));
@@ -100,6 +100,6 @@ public:
 
         // return solveTab(nums);
 
-        return solveSpace(nums);
+        // return solveSpace(nums);
     }
 };
