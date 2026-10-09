@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-jangid-web/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/ayush-jangid-web/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/ayush-jangid-web/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-jangid-web/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/ayush-jangid-web/LeetCode/tree/master/1402-reducing-dishes) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayush-jangid-web/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1824-minimum-sideway-jumps](https://github.com/ayush-jangid-web/LeetCode/tree/master/1824-minimum-sideway-jumps) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-jangid-web/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/ayush-jangid-web/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-jangid-web/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-jangid-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Longest Increasing Subsequence
