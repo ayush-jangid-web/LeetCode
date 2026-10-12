@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ayush-jangid-web/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-jangid-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/ayush-jangid-web/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ayush-jangid-web/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayush-jangid-web/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayush-jangid-web/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ayush-jangid-web/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-jangid-web/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayush-jangid-web/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayush-jangid-web/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-jangid-web/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
