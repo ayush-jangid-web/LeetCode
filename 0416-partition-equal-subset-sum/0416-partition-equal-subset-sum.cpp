@@ -18,6 +18,28 @@ class Solution {
 
         return dp[idx][target] = (include || exclude);
     }
+
+
+    bool solveTab(int n,int target,vector<int>&nums){
+        vector<vector<int>>dp(n+1,vector<int>(target+1,0));
+
+        for(int idx = 0;idx<=n;idx++){
+            dp[idx][0] = 1;
+        }
+
+        for(int idx = n-1;idx>=0;idx--){
+            for(int t=1;t<=target;t++){
+                bool include = false;
+                if(t - nums[idx] >= 0){
+                    include = dp[idx+1][t-nums[idx]];
+                }
+                bool exclude = dp[idx+1][t];
+            
+                dp[idx][t] = (include || exclude);
+            }
+        }
+        return dp[0][target];
+    }
 public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -32,8 +54,10 @@ public:
         }
 
         int target = totalsum/2;
-        vector<vector<int>>dp(n+1,vector<int>(target+1,-1));
+        // vector<vector<int>>dp(n+1,vector<int>(target+1,-1));
 
-        return solve(n,0,target,nums,dp);
+        // return solve(n,0,target,nums,dp);
+
+        return solveTab(n,target,nums);
     }
 };
