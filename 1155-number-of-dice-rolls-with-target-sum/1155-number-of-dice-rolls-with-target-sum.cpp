@@ -40,11 +40,35 @@ class Solution {
         return dp[n][target];
     }
 
+
+    int solveSpace(int n, int k, int target) {
+        vector<int>prev(target+1);
+        vector<int>curr(target+1);
+
+        prev[0] = 1;
+        
+        for (int dice = 1; dice <= n; dice++) {
+            for (int t = 1; t <= target; t++) {
+                long long ans = 0;
+                for (int i = 1; i <= k; i++) {
+                    if (t - i >= 0) {
+                        ans = (ans + prev[t - i]) % MOD;
+                    }
+                }
+                curr[t] = ans;
+            }
+            prev = curr;
+        }
+
+        return prev[target];
+    }
 public:
     int numRollsToTarget(int n, int k, int target) {
         // vector<vector<int>>dp(n+1,vector<int>(target+1,-1));
         // return solve(n,k,target,dp);
 
-        return solveTab(n, k, target);
+        // return solveTab(n, k, target);
+
+        return solveSpace(n,k,target);
     }
 };
