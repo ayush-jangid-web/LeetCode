@@ -46,10 +46,9 @@ class Solution {
         vector<int>curr(target+1,0);
         vector<int>next(target+1,0);
 
-        for(int idx = 0;idx<=n;idx++){
-            next[0] = 1;
-        }
-
+        next[0] = 1;
+        curr[0] = 1;
+        
         for(int idx = n-1;idx>=0;idx--){
             for(int t=1;t<=target;t++){
                 bool include = false;
