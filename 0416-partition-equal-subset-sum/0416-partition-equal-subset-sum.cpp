@@ -40,6 +40,30 @@ class Solution {
         }
         return dp[0][target];
     }
+
+
+    bool solveSpace(int n,int target,vector<int>&nums){
+        vector<int>curr(target+1,0);
+        vector<int>next(target+1,0);
+
+        for(int idx = 0;idx<=n;idx++){
+            next[0] = 1;
+        }
+
+        for(int idx = n-1;idx>=0;idx--){
+            for(int t=1;t<=target;t++){
+                bool include = false;
+                if(t - nums[idx] >= 0){
+                    include = next[t-nums[idx]];
+                }
+                bool exclude = next[t];
+            
+                curr[t] = (include || exclude);
+            }
+            next = curr;
+        }
+        return next[target];
+    }
 public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -58,6 +82,9 @@ public:
 
         // return solve(n,0,target,nums,dp);
 
-        return solveTab(n,target,nums);
+        // return solveTab(n,target,nums);
+
+        return solveSpace(n,target,nums);
+
     }
 };
