@@ -40,11 +40,11 @@ class Solution {
                 int ans = INT_MAX;
                 // no swap
                 if (nums1[idx] > prev1 && nums2[idx] > prev2) {
-                    ans = solve(nums1, nums2, idx + 1, 0, dp);
+                    ans = dp[idx + 1][0];
                 }
                 // swap
                 if (nums1[idx] > prev2 && nums2[idx] > prev1) {
-                    ans = min(ans, 1 + solve(nums1, nums2, idx + 1, 1, dp));
+                    ans = min(ans, 1 + dp[idx+1][1]);
                 }
                 dp[idx][swapped] = ans;
 
@@ -52,6 +52,10 @@ class Solution {
         }
         return dp[1][0];
     };
+
+    // int solveSpace(vector<int>&nums1,vector<int>&nums2){
+
+    // }
 public:
     int minSwap(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
