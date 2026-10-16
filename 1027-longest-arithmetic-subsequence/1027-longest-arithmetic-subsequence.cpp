@@ -6,19 +6,21 @@ class Solution {
         if(dp[idx].count(diff)){
             return dp[idx][diff];
         }
+
         int ans = 0;
         for(int k=idx-1;k>=0;k--){
-            if(nums[idx] - nums[k] == diff){
+            if(nums[idx]-nums[k] == diff){
                 ans = max(ans, 1 + solve(k,diff,nums,dp));
-            }            
+            }
         }
         return dp[idx][diff] = ans;
     }
 public:
     int longestArithSeqLength(vector<int>& nums) {
         int n = nums.size();
+
         int ans = 0;
-        
+
         unordered_map<int,int>dp[n+1];
 
         for(int i=0;i<n;i++){
