@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayush-jangid-web/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/ayush-jangid-web/LeetCode/tree/master/1046-last-stone-weight) |
 | [1184-distance-between-bus-stops](https://github.com/ayush-jangid-web/LeetCode/tree/master/1184-distance-between-bus-stops) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/0819-most-common-word) |
 | [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-jangid-web/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayush-jangid-web/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1388-pizza-with-3n-slices](https://github.com/ayush-jangid-web/LeetCode/tree/master/1388-pizza-with-3n-slices) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayush-jangid-web/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
