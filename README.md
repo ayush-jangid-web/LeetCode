@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/ayush-jangid-web/LeetCode/tree/master/1046-last-stone-weight) |
 | [1184-distance-between-bus-stops](https://github.com/ayush-jangid-web/LeetCode/tree/master/1184-distance-between-bus-stops) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayush-jangid-web/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush-jangid-web/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1314-matrix-block-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/1314-matrix-block-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayush-jangid-web/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-jangid-web/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayush-jangid-web/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/ayush-jangid-web/LeetCode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/ayush-jangid-web/LeetCode/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ayush-jangid-web/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
