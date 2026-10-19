@@ -5,10 +5,8 @@ public:
 
         vector<int>ans;
         for(int i=0;i<n;i++){
-            string temp = words[i];
-            int l = temp.size();
-            for(int j=0;j<l;j++){
-                if(temp[j] == x){
+            for(int j=0;j<words[i].size();j++){
+                if(words[i][j] == x){
                     ans.push_back(i);
                     break;
                 }
