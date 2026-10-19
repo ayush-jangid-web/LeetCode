@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0101-symmetric-tree) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0101-symmetric-tree) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/ayush-jangid-web/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/ayush-jangid-web/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0213-house-robber-ii) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ayush-jangid-web/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ayush-jangid-web/LeetCode/tree/master/0012-integer-to-roman) |
+| [0096-unique-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/ayush-jangid-web/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ayush-jangid-web/LeetCode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ayush-jangid-web/LeetCode/tree/master/0035-search-insert-position) |
+| [0096-unique-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
