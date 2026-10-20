@@ -46,5 +46,8 @@ public:
         // return solveMemo(n,dp);
 
         return solveTab(n);
+
+        // catalon number expression -> (1/n+1)(2n/n);
+
     }
 };
