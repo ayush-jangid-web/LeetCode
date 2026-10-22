@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/ayush-jangid-web/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayush-jangid-web/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/ayush-jangid-web/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Backtracking
 |  |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayush-jangid-web/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2315-count-asterisks](https://github.com/ayush-jangid-web/LeetCode/tree/master/2315-count-asterisks) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ayush-jangid-web/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayush-jangid-web/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/ayush-jangid-web/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## Two Pointers
