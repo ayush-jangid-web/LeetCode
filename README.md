@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2315-count-asterisks](https://github.com/ayush-jangid-web/LeetCode/tree/master/2315-count-asterisks) |
+| [2409-count-days-spent-together](https://github.com/ayush-jangid-web/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/ayush-jangid-web/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush-jangid-web/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/ayush-jangid-web/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/ayush-jangid-web/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayush-jangid-web/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2578-split-with-minimum-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayush-jangid-web/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
