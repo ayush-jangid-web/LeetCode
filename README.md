@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ayush-jangid-web/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/ayush-jangid-web/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/ayush-jangid-web/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/0494-target-sum) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayush-jangid-web/LeetCode/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/ayush-jangid-web/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/ayush-jangid-web/LeetCode/tree/master/0279-perfect-squares) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/ayush-jangid-web/LeetCode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 ## Design
 |  |
@@ -801,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
