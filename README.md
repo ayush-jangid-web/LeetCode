@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-jangid-web/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/ayush-jangid-web/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/ayush-jangid-web/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ayush-jangid-web/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush-jangid-web/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1360-number-of-days-between-two-dates](https://github.com/ayush-jangid-web/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/ayush-jangid-web/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2409-count-days-spent-together](https://github.com/ayush-jangid-web/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayush-jangid-web/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
