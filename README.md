@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/ayush-jangid-web/LeetCode/tree/master/1046-last-stone-weight) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/ayush-jangid-web/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1184-distance-between-bus-stops](https://github.com/ayush-jangid-web/LeetCode/tree/master/1184-distance-between-bus-stops) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayush-jangid-web/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1260-shift-2d-grid](https://github.com/ayush-jangid-web/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayush-jangid-web/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/ayush-jangid-web/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/ayush-jangid-web/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/ayush-jangid-web/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/ayush-jangid-web/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush-jangid-web/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-jangid-web/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1388-pizza-with-3n-slices](https://github.com/ayush-jangid-web/LeetCode/tree/master/1388-pizza-with-3n-slices) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/ayush-jangid-web/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/ayush-jangid-web/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ayush-jangid-web/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayush-jangid-web/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/ayush-jangid-web/LeetCode/tree/master/1388-pizza-with-3n-slices) |
@@ -669,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayush-jangid-web/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/ayush-jangid-web/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -810,4 +815,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/ayush-jangid-web/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
