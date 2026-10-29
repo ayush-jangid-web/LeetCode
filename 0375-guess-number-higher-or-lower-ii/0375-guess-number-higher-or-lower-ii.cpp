@@ -13,9 +13,29 @@ class Solution {
         }
         return dp[start][end] = ans;
     }
+
+    int solveTab(int n){
+        vector<vector<int>>dp(n+2,vector<int>(n+2,0));
+
+        for(int start=n;start>=1;start--){
+            for(int end = start;end<=n;end++){
+                if(end == start){
+                    continue;
+                }
+                int ans = INT_MAX;
+                for(int i=start;i<=end;i++){
+                    ans = min(ans, i + max( dp[start][i-1] , dp[i+1][end] ));
+                }
+                dp[start][end] = ans;
+            }
+        }
+        return dp[1][n];
+    }
 public:
     int getMoneyAmount(int n) {
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        return solve(1,n,dp);
+        // vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        // return solve(1,n,dp);
+
+        return solveTab(n);
     }
 };
