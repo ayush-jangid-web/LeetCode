@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/ayush-jangid-web/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayush-jangid-web/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1995-count-special-quadruplets](https://github.com/ayush-jangid-web/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-jangid-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1995-count-special-quadruplets](https://github.com/ayush-jangid-web/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ayush-jangid-web/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ayush-jangid-web/LeetCode/tree/master/1291-sequential-digits) |
+| [1995-count-special-quadruplets](https://github.com/ayush-jangid-web/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush-jangid-web/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
