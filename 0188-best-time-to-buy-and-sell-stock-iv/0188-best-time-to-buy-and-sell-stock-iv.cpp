@@ -52,12 +52,41 @@ class Solution {
         }
         return dp[0][0];
     }
+
+
+    int solvespace(int k,vector<int>&prices){
+        int n = prices.size();
+        vector<int>curr(2*k+1,0);
+        vector<int>next(2*k+1,0);
+
+        for(int idx = n-1;idx>=0;idx--){
+            for(int optNo=2*k-1;optNo>=0;optNo--){
+
+                int ans = 0;
+                if(optNo%2==0){
+                    int buykaro = -prices[idx] + next[optNo+1];
+                    int skipkaro = 0 + next[optNo];
+                    ans = max(buykaro,skipkaro);
+                }
+                else{
+                    int sellkaro = prices[idx] + next[optNo+1];
+                    int skipkaro = 0 + next[optNo];
+                    ans = max(sellkaro,skipkaro);
+                }
+                curr[optNo] = ans;
+            }
+            next = curr;
+        }
+        return next[0];
+    }
 public:
     int maxProfit(int k, vector<int>& prices) {
         // int n = prices.size();
         // vector<vector<int>>dp(n,vector<int>((2*k),-1));
         // return solve(0, 0, k, prices,dp);
 
-        return solveTab(k,prices);
+        // return solveTab(k,prices);
+
+        return solvespace(k,prices);
     }
 };
