@@ -26,10 +26,38 @@ class Solution {
         return dp[idx][optNo] = profit;
     }
 
+
+    int solveTab(int k,vector<int>&prices){
+        int n = prices.size();
+        vector<vector<int>>dp(n+1,vector<int>((2*k)+1,0));
+
+        for(int idx = n-1;idx>=0;idx--){
+            for(int optNo=(2*k)-1;optNo>=0;optNo--){
+
+                int profit = 0;
+                if(optNo%2 == 0){
+                    // buy Allowed
+                    int buykaro = -prices[idx] + dp[idx+1][optNo+1];
+                    int skipkaro = 0 + dp[idx+1][optNo];
+                    profit = max(buykaro,skipkaro);
+                }
+                else{
+                    // sell Allowed
+                    int sellkaro = prices[idx] + dp[idx+1][optNo+1];
+                    int skipkaro = 0 + dp[idx+1][optNo];
+                    profit = max(sellkaro,skipkaro);
+                }
+                dp[idx][optNo] = profit;
+            }
+        }
+        return dp[0][0];
+    }
 public:
     int maxProfit(int k, vector<int>& prices) {
-        int n = prices.size();
-        vector<vector<int>>dp(n,vector<int>((2*k),-1));
-        return solve(0, 0, k, prices,dp);
+        // int n = prices.size();
+        // vector<vector<int>>dp(n,vector<int>((2*k),-1));
+        // return solve(0, 0, k, prices,dp);
+
+        return solveTab(k,prices);
     }
 };
