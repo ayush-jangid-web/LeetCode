@@ -50,6 +50,35 @@ class Solution {
         }
         return dp[0][1][2];
     }
+
+
+    int solvespace(vector<int>&prices){
+        int n = prices.size();
+        vector<vector<int>>curr(2,vector<int>(3,0));
+        vector<vector<int>>next(2,vector<int>(3,0));
+
+        for(int idx = n-1;idx>=0;idx--){
+            for(int buy = 0;buy<=1;buy++){
+                for(int limit = 1;limit<=2;limit++){
+
+                    int ans = 0;
+                    if (buy == 1) {
+                        int buykaro = -prices[idx] + next[0][limit];
+                        int skipkaro = next[1][limit];
+                        ans = max(buykaro, skipkaro);
+                    } else {
+                        int sellkaro =
+                        prices[idx] + next[1][limit - 1];
+                        int skipkaro = next[0][limit];
+                        ans = max(sellkaro, skipkaro);
+                    }   
+                    curr[buy][limit] = ans;
+                }
+                next = curr;
+            }
+        }
+        return next[1][2];
+    }
 public:
     int maxProfit(vector<int>& prices) {
         // int n = prices.size();
@@ -57,6 +86,8 @@ public:
         //     n + 1, vector<vector<int>>(2, vector<int>(3, -1)));
         // return solve(0, 1, 2, prices, dp);
 
-        return solveTab(prices);
+        // return solveTab(prices);
+
+        return solvespace(prices);
     }
 };
