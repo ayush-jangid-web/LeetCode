@@ -1,28 +1,35 @@
 class Solution {
-    int solve(int idx,bool buy,int limit,vector<int>&prices,vector<vector<vector<int>>>&dp){
-        if(idx == prices.size() || limit == 0){
+    int solve(int idx, int optNo, int k, vector<int>& prices, vector<vector<int>>&dp) {
+        if(idx == prices.size()){
             return 0;
         }
-        if(dp[idx][buy][limit] != -1){
-            return dp[idx][buy][limit];
+        if(optNo == 2*k){
+            return 0;
         }
-        int ans = 0;
-        if(buy == 1){
-            int buykaro = -prices[idx] + solve(idx+1,0,limit,prices,dp);
-            int skipkaro = solve(idx+1,1,limit,prices,dp);
-            ans = max(buykaro,skipkaro);
+        if(dp[idx][optNo] != -1){
+            return dp[idx][optNo];
+        }
+
+        int profit = 0;
+        if(optNo%2 == 0){
+            // buy Allowed
+            int buykaro = -prices[idx] + solve(idx+1,optNo+1,k,prices,dp);
+            int skipkaro = 0 + solve(idx+1,optNo,k,prices,dp);
+            profit = max(buykaro,skipkaro);
         }
         else{
-            int sellkaro = prices[idx] + solve(idx+1,1,limit-1,prices,dp);
-            int skipkaro = solve(idx+1,0,limit,prices,dp);
-            ans = max(sellkaro,skipkaro);
+            // sell Allowed
+            int sellkaro = prices[idx] + solve(idx+1,optNo+1,k,prices,dp);
+            int skipkaro = 0 + solve(idx+1,optNo,k,prices,dp);
+            profit = max(sellkaro,skipkaro);
         }
-        return dp[idx][buy][limit] = ans;
+        return dp[idx][optNo] = profit;
     }
+
 public:
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
-        vector<vector<vector<int>>>dp(n+1,vector<vector<int>>(2,vector<int>(k+1,-1)));
-        return solve(0,1,k,prices,dp);
+        vector<vector<int>>dp(n+1,vector<int>((2*k)+1,-1));
+        return solve(0, 0, k, prices,dp);
     }
 };
