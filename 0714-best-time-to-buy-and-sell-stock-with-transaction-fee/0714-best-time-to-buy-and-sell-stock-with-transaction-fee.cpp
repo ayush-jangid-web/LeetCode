@@ -46,13 +46,43 @@ class Solution {
         }
         return dp[0][1];
     }
+    
 
+
+    int solveSpace(int fee, vector<int>& prices) {
+        int n = prices.size();
+        vector<int>curr(2, 0);
+        vector<int>next(2, 0);
+
+        for (int idx = n - 1; idx >= 0; idx--) {
+            for (int buy = 0; buy <= 1; buy++) {
+
+                int profit = 0;
+                if (buy == 1) {
+                    int buykaro =
+                        -prices[idx] + next[0];
+                    int skipkaro = 0 + next[1];
+                    profit = max(buykaro, skipkaro);
+                } else {
+                    int sellkaro =
+                        +prices[idx] + next[1] - fee;
+                    int skipkaro = 0 + next[0];
+                    profit = max(sellkaro, skipkaro);
+                }
+                curr[buy] = profit;
+            }
+            next = curr;
+        }
+        return next[1];
+    }
 public:
     int maxProfit(vector<int>& prices, int fee) {
         // int n = prices.size();
         // vector<vector<int>>dp(n,vector<int>(2,-1));
         // return solve(0,1,fee,prices,dp);
 
-        return solveTab(fee, prices);
+        // return solveTab(fee, prices);
+
+        return solveSpace(fee,prices);
     }
 };
