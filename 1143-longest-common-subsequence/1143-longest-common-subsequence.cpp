@@ -24,7 +24,7 @@ public:
         int n = text1.length();
         int m = text2.length();
 
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
+        vector<vector<int>> dp(n, vector<int>(m, -1));
 
         return solve(text1, text2, 0, 0, dp);
     }
