@@ -19,13 +19,36 @@ class Solution {
         }
     }
 
+
+    int solveTab(string& text1, string& text2){
+        vector<vector<int>>dp(text1.length()+1,vector<int>(text2.length()+1,0));
+
+        for(int i=text1.length()-1;i>=0;i--){
+            for(int j=text2.length()-1;j>=0;j--){
+                
+                int ans = 0;
+                if (text1[i] == text2[j]) {
+                    ans = 1 + dp[i+1][j+1];
+                }
+
+                else {
+                    ans = max(dp[i][j+1],dp[i+1][j]);
+                }
+                dp[i][j] = ans;
+            }
+        }
+        return dp[0][0];
+    }
 public:
     int longestCommonSubsequence(string text1, string text2) {
-        int n = text1.length();
-        int m = text2.length();
+        // int n = text1.length();
+        // int m = text2.length();
 
-        vector<vector<int>> dp(n, vector<int>(m, -1));
+        // vector<vector<int>> dp(n, vector<int>(m, -1));
 
-        return solve(text1, text2, 0, 0, dp);
+        // return solve(text1, text2, 0, 0, dp);
+
+
+        return solveTab(text1,text2);
     }
 };
