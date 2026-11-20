@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/ayush-jangid-web/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/ayush-jangid-web/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayush-jangid-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
