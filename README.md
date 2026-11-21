@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/ayush-jangid-web/LeetCode/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-jangid-web/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/ayush-jangid-web/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-jangid-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ayush-jangid-web/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayush-jangid-web/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ayush-jangid-web/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush-jangid-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/ayush-jangid-web/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/0819-most-common-word) |
 | [1267-count-servers-that-communicate](https://github.com/ayush-jangid-web/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1512-number-of-good-pairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ayush-jangid-web/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2364-count-number-of-bad-pairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush-jangid-web/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1360-number-of-days-between-two-dates](https://github.com/ayush-jangid-web/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [1512-number-of-good-pairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/ayush-jangid-web/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/ayush-jangid-web/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2409-count-days-spent-together](https://github.com/ayush-jangid-web/LeetCode/tree/master/2409-count-days-spent-together) |
