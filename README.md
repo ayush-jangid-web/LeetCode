@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ayush-jangid-web/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayush-jangid-web/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-jangid-web/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1014-best-sightseeing-pair](https://github.com/ayush-jangid-web/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/ayush-jangid-web/LeetCode/tree/master/1046-last-stone-weight) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayush-jangid-web/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ayush-jangid-web/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayush-jangid-web/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1014-best-sightseeing-pair](https://github.com/ayush-jangid-web/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayush-jangid-web/LeetCode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ayush-jangid-web/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
