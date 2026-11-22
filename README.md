@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/ayush-jangid-web/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayush-jangid-web/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayush-jangid-web/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush-jangid-web/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayush-jangid-web/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayush-jangid-web/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-jangid-web/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ayush-jangid-web/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayush-jangid-web/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1859-sorting-the-sentence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayush-jangid-web/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayush-jangid-web/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ayush-jangid-web/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -893,4 +895,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ayush-jangid-web/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
